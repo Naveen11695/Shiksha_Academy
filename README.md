@@ -17,12 +17,15 @@ This application is devloped for android platform with api support of v21. This 
 
 ## ScreenShort:
 <p float="left">
-<a href="https://i.imgur.com/V8X0VEm.jpg"><img src="https://i.imgur.com/V8X0VEm.jpg" width="250"></a>|
-<a href="https://imgur.com/bA2vWba.jpg"><img src="https://imgur.com/bA2vWba.jpg" width="250"></a>|  
-<a href="https://imgur.com/HGIgyvk.jpg"><img src="https://imgur.com/HGIgyvk.jpg" width="250"></a>|
-<a href="https://imgur.com/0wJMaiB.jpg"><img src="https://imgur.com/0wJMaiB.jpg" width="250"></a>|
-<a href="https://imgur.com/Ga6PL71.jpg"><img src="https://imgur.com/Ga6PL71.jpg" width="250"></a>|
-<a href="https://imgur.com/IoMwZzu.jpg"><img src="https://imgur.com/IoMwZzu.jpg" width="250"></a>|
+   <a href="https://imgur.com/fDYzv0u.jpg"><img src="https://imgur.com/fDYzv0u.jpg" width="50"></a>
+<p><b>Appicon</b></p>
+
+<a href="https://i.imgur.com/V8X0VEm.jpg"><img src="https://i.imgur.com/V8X0VEm.jpg" width="250"></a>
+<a href="https://imgur.com/bA2vWba.jpg"><img src="https://imgur.com/bA2vWba.jpg" width="250"></a>
+<a href="https://imgur.com/HGIgyvk.jpg"><img src="https://imgur.com/HGIgyvk.jpg" width="250"></a>
+<a href="https://imgur.com/0wJMaiB.jpg"><img src="https://imgur.com/0wJMaiB.jpg" width="250"></a>
+<a href="https://imgur.com/Ga6PL71.jpg"><img src="https://imgur.com/Ga6PL71.jpg" width="250"></a>
+<a href="https://imgur.com/IoMwZzu.jpg"><img src="https://imgur.com/IoMwZzu.jpg" width="250"></a>
 <a href="https://imgur.com/IoMwZzu.jpg"><img src="https://imgur.com/nAMqhNA.jpg" width="250"></a>
 </p>
 
