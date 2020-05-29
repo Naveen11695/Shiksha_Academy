@@ -15,7 +15,7 @@ This application is devloped for android platform with api support of v21. This 
 >Help and feedback
 
 
-## ScreenShort:
+## ScreenShot:
 <p float="left">
    <a href="https://imgur.com/fDYzv0u.jpg"><img src="https://imgur.com/fDYzv0u.jpg" width="50"></a>
 <p><b>Appicon</b></p>
